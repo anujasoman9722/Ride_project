@@ -1,2 +1,3 @@
 # Ride_project
-ride implementation with API 
+Ride_project_python
+Ride implemented through API framework
